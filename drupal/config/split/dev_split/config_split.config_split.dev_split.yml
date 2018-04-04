@@ -1,6 +1,6 @@
 uuid: 8b45e5ec-036e-4f8e-8bbe-f22306e80fc4
 langcode: en
-status: true
+status: false
 dependencies: {  }
 id: dev_split
 label: 'Dev split'
@@ -44,7 +44,6 @@ module:
   rdf: 0
   search: 0
   shortcut: 0
-  system: 0
   taxonomy: 0
   text: 0
   token: 0
