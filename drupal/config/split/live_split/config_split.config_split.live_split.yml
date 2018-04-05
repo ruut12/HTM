@@ -56,7 +56,8 @@ module:
   views: 10
   standard: 1000
 theme: {  }
-blacklist: {  }
+blacklist:
+  - core.extension
 graylist: {  }
 graylist_dependents: true
 graylist_skip_equal: true
