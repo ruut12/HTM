@@ -1,5 +1,4 @@
-module:
-  system: 0
+module: {  }
 theme:
   stable: 0
   classy: 0
