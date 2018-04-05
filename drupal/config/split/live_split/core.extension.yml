@@ -48,7 +48,8 @@ module:
   menu_link_content: 1
   pathauto: 1
   views: 10
-  minimal: 1000
+  minimal: 0
+  standard: 1000
 theme:
   stable: 0
   classy: 0
