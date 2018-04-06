@@ -1,0 +1,8 @@
+uuid: 98617d25-d9e5-42bd-a4af-081bfe12d80a
+langcode: en
+status: true
+dependencies: {  }
+id: devel-cophocugavo
+label: cophocugavo
+description: 'Description of cophocugavo'
+locked: false

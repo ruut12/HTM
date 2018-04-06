@@ -1,3 +1,10 @@
+uuid: 8b45e5ec-036e-4f8e-8bbe-f22306e80fc4
+langcode: en
+status: false
+dependencies: {  }
+id: dev_split
+label: 'Dev split'
+folder: ../config/split/dev_split
 module:
   automated_cron: 0
   big_pipe: 0
@@ -14,25 +21,19 @@ module:
   contact: 0
   contextual: 0
   ctools: 0
-  custom_admin_form_functions: 0
   datetime: 0
   dblog: 0
-  devel_generate: 0
+  devel: 0
   dynamic_page_cache: 0
   editor: 0
   field: 0
   field_ui: 0
   file: 0
   filter: 0
-  google_map_field: 0
   graphql: 0
-  graphql_core: 0
-  graphql_custom_translation: 0
   help: 0
   history: 0
   image: 0
-  jsonapi: 0
-  kint: 0
   link: 0
   menu_ui: 0
   node: 0
@@ -41,9 +42,7 @@ module:
   path: 0
   quickedit: 0
   rdf: 0
-  rest: 0
   search: 0
-  serialization: 0
   shortcut: 0
   system: 0
   taxonomy: 0
@@ -57,12 +56,9 @@ module:
   pathauto: 1
   views: 10
   standard: 1000
-theme:
-  stable: 0
-  classy: 0
-  bartik: 0
-  seven: 0
-  material_admin: 0
-profile: standard
-_core:
-  default_config_hash: R4IF-ClDHXxblLcG0L7MgsLvfBIMAvi_skumNFQwkDc
+theme: {  }
+blacklist: {  }
+graylist: {  }
+graylist_dependents: true
+graylist_skip_equal: true
+weight: 0

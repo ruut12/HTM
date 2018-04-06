@@ -1,0 +1,7 @@
+graphql_custom_translation.translation_form:
+  title: 'Custom Translations'
+  route_name: graphql_custom_translation.translation_form
+  description: 'Custom translations menu link'
+  parent: system.admin_config_system
+  weight: 99
+

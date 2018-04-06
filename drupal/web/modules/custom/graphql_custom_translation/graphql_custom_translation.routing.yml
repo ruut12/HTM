@@ -1,0 +1,11 @@
+
+graphql_custom_translation.translation_form:
+  path: '/admin/config/graphql_custom_translation/translation'
+  defaults:
+    _form: '\Drupal\graphql_custom_translation\Form\TranslationForm'
+    _title: 'TranslationForm'
+  requirements:
+    _permission: 'access administration pages'
+  options:
+    _admin_route: TRUE
+

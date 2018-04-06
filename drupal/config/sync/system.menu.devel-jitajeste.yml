@@ -1,0 +1,8 @@
+uuid: 42dcb312-ed46-4b93-b993-e5ecaa1f25b5
+langcode: en
+status: true
+dependencies: {  }
+id: devel-jitajeste
+label: jitajeste
+description: 'Description of jitajeste'
+locked: false

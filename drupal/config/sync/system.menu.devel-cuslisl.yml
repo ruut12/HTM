@@ -1,0 +1,8 @@
+uuid: f6b15bf6-7f1e-4968-9d44-9270d6595f7a
+langcode: en
+status: true
+dependencies: {  }
+id: devel-cuslisl
+label: cuslisl
+description: 'Description of cuslisl'
+locked: false

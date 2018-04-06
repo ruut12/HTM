@@ -1,0 +1,5 @@
+name: 'Custom admin form functinos'
+type: module
+description: 'Description'
+core: 8.x
+package: 'Custom'
